@@ -32,7 +32,7 @@ export const messages = {
   final: `
     <h5 class="pb-2 border-bottom text-primary text-start">Antes de concluir a sua inscrição no sistema verifique se:</h5>
     <ul>
-      <li class="mb-2">preencheu <span class='text-success'><strong>apenas as notas do último ano do Ensino Médio </strong></span>(última série ou duas últimas fases/períodos/semestres), na mesma ordem em que aparecem no histórico escolar.</li>
+      <li class="mb-2">preencheu <span class='text-danger'><strong>apenas as notas do último ano do Ensino Médio </strong></span>(última série ou duas últimas fases/períodos/semestres), na mesma ordem em que aparecem no histórico escolar.</li>
       <li class="mb-2">todos os documentos estão em página inteira. Quando digitalizar ou bater foto de documento em papel, certifique-se que cada página do arquivo digital contenha o conteúdo inteiro da mesma página do documento impresso.</li>
       <li class="mb-2">todos os documentos contêm carimbo e assinatura da escola ou protocolo para autenticação/verificação de autenticidade online ou carimbo e assinatura da instituição certificadora.</li>
       <li class="mb-2">todos os documentos estão legíveis e possibilitam fácil leitura dos seus dados.</li>
